@@ -33,5 +33,6 @@ Make sure you have Python installed on your machine. You can download it from [h
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/CKD-Prediction.git](https://github.com/Saidath/The-Prediction-of-Chronic-Kidney-Disease-using-Machine-Learning
+   git clone https://github.com/your-username/CKD-Prediction.git](https://github.com/RiyaVerma586/The-Prediction-of-Chronic-Kidney-Disease-using-Machine-Learning
+
 
